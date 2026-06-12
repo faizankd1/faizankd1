@@ -1,30 +1,85 @@
-## Hi there 👋
-# 💫 About Me:
-<br>I'm an aspiring Machine Learning and AI developer passionate about solving real-world problems through intelligent systems. I specialize in Python, TensorFlow, PyTorch, Scikit-learn, and have experience with HTML, CSS, and JavaScript for building clean front-end interfaces to AI-driven applications.<br> 🔧 Current Projects:<br> Email Spam Detection – A supervised learning model trained to accurately classify spam using NLP and Scikit-learn.<br> Food Image Calorie Estimator – A deep learning project using CNNs and the Food-101 dataset to identify food items and estimate their calorie content.<br> House Price Prediction – A regression-based ML model that uses data preprocessing, feature engineering, and model tuning to predict real estate prices with high accuracy.<br><br> 🚀 What I'm Working Toward:<br> Building and deploying end-to-end ML systems using MLOps tools like Docker and FastAPI.<br> Learning Prompt Engineering, LangChain, and LLM-based Retrieval-Augmented Generation (RAG) workflows.<br> Launching AI-powered SaaS products and offering ML consulting/freelancing services.<br> Contributing to open-source ML projects and continuously improving my understanding of model deployment, data pipelines, and real-time inference.<br><br>I'm always exploring new ideas and love working on projects that create real impact. Let’s build something smart together!<br><br>
+# Hi, I'm Faizan Kaldane 👋
 
+### ML Engineer | Computer Vision | Multi-Agent AI | Python | Flask | AWS
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/faizan-kaldane/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizannk12@gmail.com) 
+I'm a Machine Learning Engineer with ~1 year of production experience building and deploying AI systems. I specialize in **computer vision, multi-agent AI systems, end-to-end ML pipelines, and REST API deployment**. Passionate about solving real-world problems through intelligent, scalable systems.
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=faizankd1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=faizankd1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=faizankd1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!--
-**faizankd1/faizankd1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Featured Projects
 
-Here are some ideas to get you started:
+### 🤖 Multi-Agent Research System
+> Python · LangChain · LangGraph · OpenAI · Tavily · BeautifulSoup · LCEL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Production-ready Multi-Agent Research System using specialized AI agents collaboratively performing deep web research. Built with ReAct reasoning and LangGraph orchestration — Research Agent → Web Scraper Agent → Analysis Agent → Report Generator.
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=flat&logo=github)](https://github.com/faizankd1/Multi_Agent_System)
+
+### 🌱 Smart Irrigation System (AI + IoT)
+> Python · Random Forest · Flask · Arduino · AWS/GCP · SQL
+
+AI-powered irrigation system using Arduino IoT sensors + ML models for real-time automated decision-making. Reduced water consumption by **20%** through predictive demand forecasting on real field sensor data.
+
+### ✏️ Glyph AI Smart Pen (IoT + ML)
+> Python · OpenCV · NLP · OCR (Tesseract) · TensorFlow · Bluetooth
+
+IoT-based smart pen with accelerometer/magnetometer sensors. Built an ML pipeline integrating OCR + NLP for real-time text digitization with Bluetooth/Wi-Fi sync.
+
+### 🔤 Text Generation Model
+> Python · Deep Learning · Shakespeare Dataset
+
+Character-level text generation model trained on Tiny Shakespeare dataset (~1M characters). Learns language patterns and generates coherent text sequences.
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=flat&logo=github)](https://github.com/faizankd1/Text-genration-model)
+
+---
+
+## 💼 Experience
+
+**Machine Learning Intern @ ATA Minds** *(May 2025 – Apr 2026)*
+- Deployed YOLOv8 object detection models → **+12% accuracy** over baseline
+- Built automated ML pipelines → **30% reduction** in training time
+- Designed scalable production pipelines with REST API integration for real-time inference
+
+---
+
+## 🛠️ Tech Stack
+
+**ML / AI:** TensorFlow · PyTorch · Scikit-learn · OpenCV · YOLOv8 · Keras · CNNs  
+**GenAI / Agents:** LangChain · LangGraph · OpenAI API · Tavily · ReAct · LCEL  
+**Languages:** Python · SQL · JavaScript · HTML · CSS  
+**Deployment:** Flask · FastAPI · REST APIs · AWS · GCP · Azure · Firebase  
+**Data:** Pandas · NumPy · Matplotlib · SciPy  
+**Tools:** Git · GitHub · GitLab · MongoDB · MySQL  
+
+---
+
+## 🎯 Currently Working On
+
+- 🧠 RAG pipelines with Vector Databases (Pinecone / Chroma)
+- 🐳 Docker + MLflow for MLOps workflows
+- 📊 Streamlit Dashboard for Multi-Agent System
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner** — Smart India Hackathon (SIH), College Level
+- 🤖 **Certified** — Artificial Intelligence, Samsung Innovation Campus (2025)
+- 🚀 Participated in national-level AI + IoT hackathons
+
+---
+
+## 📊 GitHub Stats
+
+![Faizan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=faizankd1&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://nirzak-streak-stats.vercel.app/?user=faizankd1&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=faizankd1&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🌐 Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/faizan-kaldane)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizannk12@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/faizankd1)
