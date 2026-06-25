@@ -1,6 +1,6 @@
 # Hi, I'm Faizan Kaldane 👋
 
-### ML Engineer | Computer Vision | Multi-Agent AI | Python | Flask | AWS
+### AI/ML Engineer | Computer Vision | Multi-Agent AI | Python | Flask | AWS
 
 I'm a Machine Learning Engineer with ~1 year of production experience building and deploying AI systems. I specialize in **computer vision, multi-agent AI systems, end-to-end ML pipelines, and REST API deployment**. Passionate about solving real-world problems through intelligent, scalable systems.
 
