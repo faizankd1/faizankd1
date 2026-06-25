@@ -9,7 +9,7 @@ I'm a Machine Learning Engineer with ~1 year of production experience building a
 ## 🚀 Featured Projects
 
 ### 🤖 Multi-Agent Research System
-> Python · LangChain · LangGraph · OpenAI · Tavily · BeautifulSoup · LCEL
+> Python · LangChain · LangGraph · MistralAI · Tavily · BeautifulSoup · LCEL
 
 Production-ready Multi-Agent Research System using specialized AI agents collaboratively performing deep web research. Built with ReAct reasoning and LangGraph orchestration — Research Agent → Web Scraper Agent → Analysis Agent → Report Generator.
 
