@@ -1,5 +1,4 @@
 # Hi, I'm Faizan Kaldane 👋
-
 ### AI/ML Engineer | Computer Vision | Multi-Agent AI | Python | Flask | AWS
 
 I'm a Machine Learning Engineer with ~1 year of production experience building and deploying AI systems. I specialize in **computer vision, multi-agent AI systems, end-to-end ML pipelines, and REST API deployment**. Passionate about solving real-world problems through intelligent, scalable systems.
@@ -11,24 +10,24 @@ I'm a Machine Learning Engineer with ~1 year of production experience building a
 ### 🤖 Multi-Agent Research System
 > Python · LangChain · LangGraph · MistralAI · Tavily · BeautifulSoup · LCEL
 
-Production-ready Multi-Agent Research System using specialized AI agents collaboratively performing deep web research. Built with ReAct reasoning and LangGraph orchestration — Research Agent → Web Scraper Agent → Analysis Agent → Report Generator.
+Production-ready multi-agent research system where specialized AI agents collaborate to perform deep web research. Built with ReAct reasoning and LangGraph orchestration across a 4-agent pipeline: **Research Agent → Web Scraper Agent → Analysis Agent → Report Generator**.
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=flat&logo=github)](https://github.com/faizankd1/Multi_Agent_System)
 
 ### 🌱 Smart Irrigation System (AI + IoT)
 > Python · Random Forest · Flask · Arduino · AWS/GCP · SQL
 
-AI-powered irrigation system using Arduino IoT sensors + ML models for real-time automated decision-making. Reduced water consumption by **20%** through predictive demand forecasting on real field sensor data.
+AI-powered irrigation system using Arduino IoT sensors + ML models for real-time automated decision-making. **Reduced water consumption by 20%** through predictive demand forecasting on real field sensor data.
 
-### ✏️ Glyph AI Smart Pen (IoT + ML)
+### ✏️ Glyph AI — Smart Pen (IoT + ML)
 > Python · OpenCV · NLP · OCR (Tesseract) · TensorFlow · Bluetooth
 
-IoT-based smart pen with accelerometer/magnetometer sensors. Built an ML pipeline integrating OCR + NLP for real-time text digitization with Bluetooth/Wi-Fi sync.
+IoT-based smart pen with accelerometer/magnetometer sensors. Built an ML pipeline integrating OCR + NLP for real-time text digitization, synced over Bluetooth/Wi-Fi.
 
 ### 🔤 Text Generation Model
 > Python · Deep Learning · Shakespeare Dataset
 
-Character-level text generation model trained on Tiny Shakespeare dataset (~1M characters). Learns language patterns and generates coherent text sequences.
+Character-level text generation model trained on the Tiny Shakespeare dataset (~1M characters). Learns language patterns and generates coherent text sequences.
 
 [![GitHub](https://img.shields.io/badge/GitHub-View_Repo-black?style=flat&logo=github)](https://github.com/faizankd1/Text-genration-model)
 
@@ -45,17 +44,16 @@ Character-level text generation model trained on Tiny Shakespeare dataset (~1M c
 
 ## 🛠️ Tech Stack
 
-**ML / AI:** TensorFlow · PyTorch · Scikit-learn · OpenCV · YOLOv8 · Keras · CNNs  
-**GenAI / Agents:** LangChain · LangGraph · OpenAI API · Tavily · ReAct · LCEL  
-**Languages:** Python · SQL · JavaScript · HTML · CSS  
-**Deployment:** Flask · FastAPI · REST APIs · AWS · GCP · Azure · Firebase  
-**Data:** Pandas · NumPy · Matplotlib · SciPy  
-**Tools:** Git · GitHub · GitLab · MongoDB · MySQL  
+**ML / AI:** TensorFlow · PyTorch · Scikit-learn · OpenCV · YOLOv8 · Keras · CNNs
+**GenAI / Agents:** LangChain · LangGraph · OpenAI API · Tavily · ReAct · LCEL
+**Languages:** Python · SQL · JavaScript · HTML · CSS
+**Deployment:** Flask · FastAPI · REST APIs · AWS · GCP · Azure · Firebase
+**Data:** Pandas · NumPy · Matplotlib · SciPy
+**Tools:** Git · GitHub · GitLab · MongoDB · MySQL
 
 ---
 
 ## 🎯 Currently Working On
-
 - 🧠 RAG pipelines with Vector Databases (Pinecone / Chroma)
 - 🐳 Docker + MLflow for MLOps workflows
 - 📊 Streamlit Dashboard for Multi-Agent System
@@ -63,7 +61,6 @@ Character-level text generation model trained on Tiny Shakespeare dataset (~1M c
 ---
 
 ## 🏆 Achievements
-
 - 🥇 **Winner** — Smart India Hackathon (SIH), College Level
 - 🤖 **Certified** — Artificial Intelligence, Samsung Innovation Campus (2025)
 - 🚀 Participated in national-level AI + IoT hackathons
@@ -80,6 +77,6 @@ Character-level text generation model trained on Tiny Shakespeare dataset (~1M c
 
 ## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/faizankaldane)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faizankaldane)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:faizannk12@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/faizankd1)
