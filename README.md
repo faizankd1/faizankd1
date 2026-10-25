@@ -35,7 +35,7 @@ Character-level text generation model trained on the Tiny Shakespeare dataset (~
 
 ## 💼 Experience
 
-**Machine Learning Intern @ ATA Minds** *(May 2025 – Apr 2026)*
+**Machine Learning Intern @ AIKTC ** *(May 2025 – Apr 2026)*
 - Deployed YOLOv8 object detection models → **+12% accuracy** over baseline
 - Built automated ML pipelines → **30% reduction** in training time
 - Designed scalable production pipelines with REST API integration for real-time inference
